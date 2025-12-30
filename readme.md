@@ -28,7 +28,7 @@ A full-stack food ordering web application built using React and Django Rest Fra
 ### Catogery Dashboard
 ![Admin](projectImage/Screenshot%202025-12-30%20225403.png)
 ### User Dashboard
-![Admin](projectImage/Screenshot%202025-12-30%20224914.png)
+![Admin](projectImage/Screenshot%202025-12-30%20225414.png)
 
 ##  Tech Stack
 - React.js

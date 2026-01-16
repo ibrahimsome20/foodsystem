@@ -1,10 +1,10 @@
-# Food Ordering System 🍔
+# Food Ordering System 
 
 A full-stack food ordering web application built using React and Django Rest Framework.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Page
 ![Home](projectImage/Screenshot%202025-12-30%20224759.png)
